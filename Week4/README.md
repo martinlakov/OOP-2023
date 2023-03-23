@@ -3,9 +3,7 @@
 	Изход: CSV със следните 5 колони: година(yyyy), мин. темп за годината, макс. темп, средна темп, брой дни в които имаме измерване
 
 Зад 2. (Binary файл):
-
 	Имаме бинарен файл с резултати на студентите, по следната схема: 1 entry = Course ID: char[6] (при CS301, PHY553), Strudent ID char[10], Student Note: int
-
 	Искаме следните функции:
 	 - IntVector getStrudentNodes(studentId)
 	 - IntVector getCourseNotest(courseId)
